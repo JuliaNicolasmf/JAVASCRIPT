@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+ <html>
+    <head>
+        <title>Julian´s Recipe Book</title>
+        <meta charset="utf-8">
+        <style>
+       h1{background:rgb(255, 200, 112);}
+       h2{color:rgb(166, 124, 45);}
+       
+       
+       
+        </style>
+    </head>
+    <body>
+         
+         
+         
+         
+        <h1>Julian´s Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+    
+            <li><a href="#dumplings">Dumplings</a></li>
+        </ol>
+       <h2 id="dumplings">Dumplings</h2>
+       
+    
+           
+       
+           <li>Time:1 HOUR</li>
+            <li>Serves:5 </li>
+        <h2 id="Recipe#1">Recipe #2</h2>
+        
+      
+       
+       
+       
+       
+        
+        
+        
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+          <tr>                                                               <td>1/2 cup soy sauce<br>
+1 tablespoon seasoned rice vinegar<br>
+1 tablespoon finely chopped Chinese chives<br>
+1 tablespoon sesame seeds<br>
+1 teaspoon chile-garlic sauce (such as Sriracha®)<br>
+1 pound ground pork<br>
+3 cloves garlic, minced<br>
+1 large egg, beaten<br>
+2 tablespoons finely chopped Chinese chives<br>
+2 tablespoons soy sauce<br>
+1 ½ tablespoons sesame oil<br>
+1 tablespoon minced fresh ginger<br>
+50 dumpling wrappers<br>
+1 cup vegetable oil for frying<br>
+1 quart water, or more as needed</td></tr>
+         
+          
+            </tbody>
+        </table>
+        
+  <p><strong>Step 1:</strong>Combine 1/2 cup soy sauce, rice vinegar, 1 tablespoon chives, sesame seeds, and chile sauce in a small bowl. Set aside.
+</p>      
+          <p><strong>Step 2:</strong>Mix pork, garlic, egg, 2 tablespoons chives, soy sauce, sesame oil, and ginger in a large bowl until thoroughly combined. Place a dumpling wrapper on a lightly floured work surface and spoon about 1 tablespoon of the filling in the middle. Wet the edge with a little water and crimp together forming small pleats to seal the dumpling. Repeat with remaining dumpling wrappers and filling.
+          
+
+    
+    
+    
+</p> 
+    
+    
+  <p><strong>Step 3:</strong>Heat 1 to 2 tablespoons vegetable oil in a large skillet over medium-high heat. Place 8 to 10 dumplings in the pan and cook until browned, about 2 minutes per side. Pour in 1 cup of water, cover and cook until the dumplings are tender and the pork is cooked through, about 5 minutes. Repeat for remaining dumplings. Serve with soy sauce mixture for dipping.
+</p>   
+    
+    
+    
+   
+   <p><em>Recetario en línea: <a href="https://www.allrecipes.com/recipe/228052/chinese-pork-dumplings/">Chinese Pork Dumplings
+</a></em></p>
+    </body>
+    </html>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Xiaolongbao-breakfast.jpg/800px-Xiaolongbao-breakfast.jpg"alt="Chinese Pork Dumplings"width="350"height="200">
+  
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+
+        
+   
+    
+
