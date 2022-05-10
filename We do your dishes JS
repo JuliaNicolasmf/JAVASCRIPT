@@ -1,0 +1,30 @@
+fill(68, 125, 163);
+textSize(30);
+text("We do your dishes",64,50);
+     
+  fill(39, 83, 194);
+  textSize(25);
+  text("call us to +35235",83,96);
+ 
+ var aro = 20;
+ fill(15, 75, 107);
+ textSize(aro);
+ text("We don't charge expensive",aro+47,aro+118);
+
+fill(255, 255, 255);
+ellipse(184,265,167,163);
+
+
+draw= function() {
+ //take a bite out of the dish !   
+fill(255, 255, 255);
+  
+  noStroke();
+
+ellipse (mouseX,mouseY,30,30); 
+    
+    
+    
+    
+    
+};
