@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+    
+        <meta charset="utf-8">
+        <title>My Weblog</title>
+    </head>
+    <body>
+        <style>
+          .julian{
+              color:rgb(8, 17, 97);
+              font-style:italic;
+            
+          }  
+            
+            
+            
+            
+            
+            
+            
+            
+        </style>
+        <h1>Julian´s blog</h1>
+
+        <h3 class="julian">Contents</h3>
+        <ul>
+            <li>First post!</li>
+        </ul>
+        
+        <h2>First post</h2>
+        <h6>Posted on 11/02/2022</h6>
+        
+        <p>Something excited happened.</p>
+        
+        <p class="julian">Today is February eleventh, two thousand and twenty 22
+        </p>
+        
+        <p> Tpday was another normal day in my life, i woke up and go to the bathroom to wash my face, and brush my teeth then i took my classes, the first was the english class, also the boriest one, the miss can´t speak, i know more than her!! so i wrote an email to the academic coordinator complaining about her, then i took breakfast<strong>( A DELICIOUS CHICKEN SOUP)</strong> at 11:00 i took the spanish class, it wasnt the most amazing thing but it was okay, continuosly i took  political will and their civic training and finally Sciences we solved a math problem and that´s all, my classes finished, i took a break and go to the kitchen to eat cereal, i went to my room and started studying, and then i am here,see ya.
+     
+        
+            
+            
+            
+        </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </body>
+</html>
