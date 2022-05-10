@@ -1,0 +1,31 @@
+
+fill(38, 39, 43);
+
+textSize(34);
+
+text("My Favorite Foods : ", 55 ,36);
+
+
+fill(38, 45, 71);
+
+textSize(24);
+text("1.Chilaquiles",132,92);
+
+
+
+
+fill(45, 35, 56);
+
+textSize(24);
+text("2.Tacos",132,148);
+
+
+
+
+
+
+fill(183, 201, 20);
+
+textSize(24);
+text("3.Pizza",132,210);
+
