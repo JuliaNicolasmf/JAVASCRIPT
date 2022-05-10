@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links for learning</title>
+    </head>
+    <body>
+        
+        <h1>Links for learning</h1>
+        
+        <ul>
+            <li><a href="https://www.w3schools.com/html/html_editors.asp">W3 SCHOOLS</a></li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators">MDN Web Docs</a></li>
+            <li><a href="https://opensea.io/login?referrer=%2Faccount">OpenSea</a></li>
+        </ul>
+
+        
+        <a href="https://www.youtube.com/watch?v=rnkVl6o2L5I">
+       
+        <img src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+        </a>
+   
+   
+   
+   
+   
+    </body>
+</html>
