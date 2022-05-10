@@ -1,0 +1,42 @@
+<head>
+        <meta charset="utf-8">
+        <title>MY OWN WEB SITE</title>
+    </head>
+    <body>
+    <style>
+       ul{color:rgb(10, 15, 74);}
+       .famous{color:rgb(186, 58, 58);}
+        #aro{background:rgb(255, 105, 105);}
+        .metamask{background:rgb(61, 153, 219);}
+        #benefits{background:rgb(123, 130, 212);}
+        
+        
+        
+    </style>
+  
+        <h1>SOMETHING RANDOM </h1>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/cat.png">
+
+    
+    <ul><h3>Things you can do in Harvard</h3>
+        Study<br>
+        Meet New People<br>
+        
+    </ul>
+      <h2><strong class="famous">FAMOUS HARVARD PEOPLE</strong></h2>  
+       
+    <p id="aro"> 
+    
+    Through the years , there were some  brstudents,<br>
+    You must recognize bill gates or <strong>Mark Zuckeberg</strong><br>
+    Both of them studied here in harvard<br>
+    in the time mark was studying computer science,<br>
+    he was working in something reallyr big , today we know it as "Facebook"<br> there is not only one creator but 2 ,<em> Saverin</em><br>
+    <strong>Bill Gates</strong>Created Microsoft 
+       </p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mark_Zuckerberg%2C_World_Economic_Forum_2009_Annual_Meeting.jpg/170px-Mark_Zuckerberg%2C_World_Economic_Forum_2009_Annual_Meeting.jpg" alt="Zuck" width="300" height="280">
+        <img src ="https://upload.wikimedia.org/wikipedia/commons/0/0a/Political_memes.png" alt="meme time" width="250"
+  height="281">     
+        
+        
+    </body>
